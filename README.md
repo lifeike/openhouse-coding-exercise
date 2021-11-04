@@ -15,7 +15,7 @@
 3. Use media query to make it more responsive
 4. Use react-redux and react-promise to manage global states
 5. For mobile side, add scroll down loading and scroll up refresh
-6. many many...
+6. many many...https://github.com/lifeike/openhouse-coding-exercise.git
 
 #### Issue summary
 
@@ -24,8 +24,8 @@
 #### API summary
 
 1. functions: please review the code comments
-2. communities url: https://us-east-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/application-0-aukun/service/codetest/incoming_webhook/communities
-3. homes url: https://us-east-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/application-0-aukun/service/codetest/incoming_webhook/homes
+2. communities endpoint: https://us-east-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/application-0-aukun/service/codetest/incoming_webhook/communities
+3. homes endpoint: https://us-east-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/application-0-aukun/service/codetest/incoming_webhook/homes
 4. **You can use this API url to test other applicants, request limit is 1M times.**
 5. note: mongodb will convert number value to an object to keep it typed, which will probably make data computing a little bit harder.
 
