@@ -3,7 +3,6 @@
 #### Decription
 
 1. this project is a simple web application using React to retrieve data from third-party server and display housing information.
-
 2. installation
    - git clone && cd openhouse-coding-exercise
    - npm install && npm start
