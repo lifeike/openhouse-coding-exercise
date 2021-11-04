@@ -9,12 +9,13 @@
 
 #### Follwing Up Question
 
-1. Add some local mock data to respond to users when remote server is down
-2. Use skeleton screen to make it more user friendly, due to time constraints, I used loading component instead.
-3. Use media query to make it more responsive
-4. Use react-redux and react-promise to manage global states
-5. For mobile side, add scroll down loading and scroll up refresh
-6. many many...
+1. Add some local mock data to respond to users when remote server is down.
+2. add API key to cloud database to avoid dos attack
+3. Use skeleton screen to make it more user friendly, due to time constraints, I used loading component instead.
+4. Use media query to make it more responsive
+5. Use react-redux and react-promise to manage global states
+6. For mobile side, add scroll down loading and scroll up refresh
+7. many many...
 
 #### Issue summary
 
