@@ -14,7 +14,7 @@
 3. Use media query to make it more responsive
 4. Use react-redux and react-promise to manage global states
 5. For mobile side, add scroll down loading and scroll up refresh
-6. many many...https://github.com/lifeike/openhouse-coding-exercise.git
+6. many many...
 
 #### Issue summary
 
