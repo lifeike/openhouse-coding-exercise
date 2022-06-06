@@ -1,5 +1,8 @@
 ## Open House AI Code challenge
 
+
+
+
 #### Decription
 
 1. this project is a simple web application using React to retrieve data from third-party server and display housing information.
